@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="CIOCPServer.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IOCP.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
